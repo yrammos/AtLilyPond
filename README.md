@@ -1,19 +1,9 @@
-AtLilyPond v.2
-===============
+AtLilyPond
+==========
 
 LilyPond syntax highlighting in Atom.
 
-### Description
-
-This project aims at providing comprehensive and consistent syntax highlighting of [GNU LilyPond](http://lilypond.org) files in [Atom](http://atom.io).
-
 **NOTE:** AtLilyPond is an Atom port of my [SubLilyPond](https://www.github.com/yrammos/SubLilyPond) highlighter for Sublime Text. For screenshots, release history, and other pertinent information check out SubLilyPond on Github.
-
-Future versions may include a LilyPond build engine and snippets/autcompletions. Feel free to contact me for feedback, bug reports, and feature suggestions.
-
-### Reporting bugs
-
-Please include the following with your bug reports: screenshot, LilyPond snippet manifesting the issue, short issue description, and the name of your color scheme.
 
 ### Acknowledgement
 
