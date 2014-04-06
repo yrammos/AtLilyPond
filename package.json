@@ -1,6 +1,6 @@
 {
   "name": "AtLilyPond",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LilyPond syntax highlighter for Atom. Based on SubLilyPond.",
   "repository": "https://github.com/yrammos/AtLilyPond",
   "license": "CC BY-NC 3.0",
