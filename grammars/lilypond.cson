@@ -31,4 +31,4 @@
     'include': 'source.lilypond-schememode'
   }
 ]
-'scopeName': 'source.tmLilyPond'
+'scopeName': 'source.AtLilyPond'
