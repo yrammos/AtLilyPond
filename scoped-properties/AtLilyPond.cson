@@ -2,3 +2,5 @@
   'editor':
     'commentStart': '%{'
     'commentEnd': '%}'
+    'foldStartMarker': '\\{\\s*$'
+    'foldEndPattern': '^\\s*\\}'
