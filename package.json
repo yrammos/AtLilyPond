@@ -6,8 +6,5 @@
   "license": "CC BY-NC 3.0",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
-    "language-lisp": ">0.1"
   }
 }
