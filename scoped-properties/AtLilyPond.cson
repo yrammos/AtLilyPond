@@ -1,6 +1,0 @@
-'.source.AtLilyPond':
-  'editor':
-    'commentStart': '%{'
-    'commentEnd': '%}'
-    'foldStartMarker': '\\{\\s*$'
-    'foldEndPattern': '^\\s*\\}'
