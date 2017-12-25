@@ -32,4 +32,4 @@
     'include': 'source.lilypond-schememode'
   }
 ]
-'scopeName': 'source.AtLilyPond'
+'scopeName': 'source.lilypond'
