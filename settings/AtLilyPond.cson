@@ -1,4 +1,4 @@
-'.source.AtLilyPond':
+'.source.lilypond':
   'editor':
     'commentStart': '%{'
     'commentEnd': '%}'
